@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SearchMap</string>
+    <string name="locDir">direction</string>
+    <string name="locLon">longitude</string>
+    <string name="locLat">latitude</string>
+    <string name="locAcc">accuracy</string>
+</resources>
